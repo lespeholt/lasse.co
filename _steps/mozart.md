@@ -1,7 +1,7 @@
 ---
-title: Wolfgang Amadeus Mozart
-date: 1756-01-27 00:00:00 -0700
-enddate: 1791-12-05 00:00:00 -0700
+title: SWE Intern at Google Seattle/Kirkland
+date: 2012-07-01 00:00:00 -0700
+enddate: 2012-10-30 00:00:00 -0700
 ---
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Croce-Mozart-Detail.jpg/185px-Croce-Mozart-Detail.jpg)
