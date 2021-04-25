@@ -14,9 +14,17 @@ enddate: 2018-06-30 00:00:00 -0700
 
 ### Baz
 
-#### Foo
+#### Papers
 
-##### Foo
+##### Paper 1
+
+##### Paper 2
+
+#### Patents
+
+##### Patent 1
+
+##### Patent 2
 
 ###### Foo
 
