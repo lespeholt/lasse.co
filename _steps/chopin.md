@@ -1,7 +1,7 @@
 ---
 title: Master of Science in Computer Science, Aarhus University
-date: 2014-12-01 00:00:00 -0700
-enddate: 2009-08-01 00:00:00 -0700
+date: 2009-08-01 00:00:00 -0700
+enddate: 2014-12-01 00:00:00 -0700
 ---
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Frederic_Chopin_photo.jpeg/167px-Frederic_Chopin_photo.jpeg)
