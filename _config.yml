@@ -1,5 +1,5 @@
 ---
-title: Composers
+title: Lasse Espeholt
 timezone: Europe/Berlin
 collections:
   posts:
@@ -21,7 +21,7 @@ defaults:
 markdown: kramdown
 highlighter: rouge
 lsi: false
-description: your resume
+description: Lasse Espeholt
 baseurl: "/"
 url: https://lasse.co
 color: "#f2f2f2"
