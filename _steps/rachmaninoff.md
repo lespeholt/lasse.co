@@ -1,7 +1,7 @@
 ---
-title: Sergei Rachmaninoff
-date: 1873-04-01 00:00:00 -0700
-enddate: 1943-03-28 00:00:00 -0700
+title: SWE Intern at Google Mountain View
+date: 2013-06-01 00:00:00 -0700
+enddate: 2013-09-01 00:00:00 -0700
 ---
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sergei_Rachmaninoff_cph.3a40575.jpg/128px-Sergei_Rachmaninoff_cph.3a40575.jpg)
